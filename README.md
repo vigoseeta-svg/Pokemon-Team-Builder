@@ -1,3 +1,10 @@
+# สมาชืกในกลุ่ม
+# 1. 663450046-0 นายโชติชญาน์ สีทา
+# 2. 663450039-7 นายทัตพงศ์ พงศ์สุวากร
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
